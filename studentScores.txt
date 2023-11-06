@@ -1,0 +1,7 @@
+Average GPA: 2.96667
+Students whose GPAs are above the average: 
+Bob Smith
+Jill Johnson
+Joyce Masterson
+Bob Hughes
+Eric Cartman
